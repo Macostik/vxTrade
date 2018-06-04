@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.3.0)
+  - Charts (3.0.1):
+    - Charts/Core (= 3.0.1)
+  - Charts/Core (3.0.1)
+  - Realm (2.4.2):
+    - Realm/Headers (= 2.4.2)
+  - Realm/Headers (2.4.2)
+  - RealmSwift (2.4.2):
+    - Realm (= 2.4.2)
+  - SnapKit (3.2.0)
+  - SwiftWebSocket (2.6.5)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Charts
+  - RealmSwift
+  - SnapKit
+  - SwiftWebSocket
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  Charts: 0e84f4418e87dad6a9edde221fba37ebb51d3ba7
+  Realm: d27b758e12d62a3371879a065d4c40aa212c5a54
+  RealmSwift: 9556c0fe0f0cfecacfb755ae9e68ff379fc6bead
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SwiftWebSocket: 1ef8a0efb023544643bdf480c1ec4a62b204f293
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 67a36422c21a23f69e5ad54787142ec86f697ec6
+
+COCOAPODS: 1.2.0

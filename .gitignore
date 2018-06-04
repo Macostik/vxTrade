@@ -1,0 +1,8 @@
+.DS_Store
+xcuserdata
+*.xccheckout
+*.xcbkptlist
+ipa.sh
+/build
+
+upload_dsym_results
